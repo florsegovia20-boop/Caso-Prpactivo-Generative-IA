@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copiloto de Viajes AI",
+  "description": "Una aplicación personalizada de planificación de viajes que genera itinerarios a medida según las preferencias del usuario. Esta aplicación utiliza el modelo Gemini para analizar los requisitos de destino, duración, presupuesto e intereses del usuario. Actúa como un copiloto logístico, creando planes de viaje diarios que son atractivos, coherentes y altamente personalizados. El sistema utiliza Generación Aumentada por Recuperación (RAG) a través de la búsqueda de Google para integrar información relevante y actualizada, asegurando que las recomendaciones sean viables y bien fundamentadas. Cada sugerencia es explicable, con justificaciones proporcionadas para alinearse con el estilo de viaje único del usuario.",
+  "requestFramePermissions": []
+}
